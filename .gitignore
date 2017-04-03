@@ -1,2 +1,4 @@
 *.csv
 *~
+net7.pickle
+.ipynb_checkpoints
